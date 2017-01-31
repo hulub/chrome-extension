@@ -1,0 +1,6 @@
+[submodule "trezor-common"]
+	path = trezor-common
+	url = https://github.com/hulub/trezor-common.git
+[submodule "management/data"]
+	path = management/data
+	url = https://github.com/trezor/webwallet-data.git
